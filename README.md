@@ -1,5 +1,3 @@
-# FRONTEND README.md
-
 # Feedback Analyzer Frontend
 
 **React-based UI** for an AI-powered feedback analysis system. Users can submit feedback and receive structured insights including sentiment, key issues, improvements, and summary in a clean chat interface.
